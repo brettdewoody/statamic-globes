@@ -10,7 +10,7 @@ Installation & Setup
 
 2. Drag `_add-ons/globes` into your site's `_add-ons` folder.
 
-3. Open your `_config/settings.yaml` file and add `globes:true` to the `_admin_nav` setting.
+3. Open your `_config/settings.yaml` file and under the `_admin_nav` setting, add `globes: true`.
 
 4. Open your `_themes/[theme-name]/theme.yaml` file define the global variables you want to be editable. 
 
